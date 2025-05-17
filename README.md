@@ -91,8 +91,8 @@ In the video, I walk through:
 
 ---
 
-## 👤 Author
-**Reddy Naresh**
-🔗 GitHub: @iamnaresh06
-💼 LinkedIn: iamnaresh06
-🌐 Portfolio Website
+👤 **Author**  
+**Reddy Naresh**  
+🔗 [GitHub: @iamnaresh06](https://github.com/iamnaresh06)  
+💼 [LinkedIn: iamnaresh06](https://www.linkedin.com/in/iamnaresh06)  
+🌐 [Portfolio Website](https://reddynaresh.netlify.app/)
