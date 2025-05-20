@@ -84,9 +84,13 @@ In the video, I walk through:
   🌐 [Project Video](https://youtu.be/YU9sP1mt6kE?si=lAz00jTzj7aSE_3v)
 
 ---
+## Author
 
-👤 **Author**  
 **Reddy Naresh**  
+MCA Student at NSRIT | Minor in Computer Science Engineering & NextGen Technologies at IIT Mandi | Aspiring Software Developer
+
+## Connect Through:-
+- Mail ID:- 06.nareshreddy@gmail.com   
 🔗 [GitHub: @iamnaresh06](https://github.com/iamnaresh06)  
 💼 [LinkedIn: iamnaresh06](https://www.linkedin.com/in/iamnaresh06)  
 🌐 [Portfolio Website](https://reddynaresh.netlify.app/)
