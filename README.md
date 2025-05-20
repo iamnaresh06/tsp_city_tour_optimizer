@@ -81,7 +81,7 @@ In the video, I walk through:
 * File structure & modules
 * How the algorithm works
 * How the final output looks visually
-* GitHub usage and output folder
+  🌐 [Project Video](https://youtu.be/YU9sP1mt6kE?si=lAz00jTzj7aSE_3v)
 
 ---
 
