@@ -91,6 +91,6 @@ MCA Student at NSRIT | Minor in Computer Science Engineering & NextGen Technolog
 
 ## Connect Through:-
 - Mail ID:- 06.nareshreddy@gmail.com   
-🔗 [GitHub: @iamnaresh06](https://github.com/iamnaresh06)  
-💼 [LinkedIn: iamnaresh06](https://www.linkedin.com/in/iamnaresh06)  
-🌐 [Portfolio Website](https://reddynaresh.netlify.app/)
+- 🔗 [GitHub: @iamnaresh06](https://github.com/iamnaresh06)  
+- 💼 [LinkedIn: iamnaresh06](https://www.linkedin.com/in/iamnaresh06)  
+- 🌐 [Portfolio Website](https://reddynaresh.netlify.app/)
