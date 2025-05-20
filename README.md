@@ -85,12 +85,6 @@ In the video, I walk through:
 
 ---
 
-## 📌 Sample Output
-
-![City Tour Route](output/route_plot.png)
-
----
-
 👤 **Author**  
 **Reddy Naresh**  
 🔗 [GitHub: @iamnaresh06](https://github.com/iamnaresh06)  
